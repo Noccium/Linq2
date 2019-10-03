@@ -1,0 +1,11 @@
+D:\Docs_NovaGeracao\Programa de estágio\Código de demonstração\ProjetosParaTreinamento\Linq\bin\Debug\Linq.exe
+D:\Docs_NovaGeracao\Programa de estágio\Código de demonstração\ProjetosParaTreinamento\Linq\bin\Debug\Linq.pdb
+D:\Docs_NovaGeracao\Programa de estágio\Código de demonstração\ProjetosParaTreinamento\Linq\obj\x86\Debug\Linq.exe
+D:\Docs_NovaGeracao\Programa de estágio\Código de demonstração\ProjetosParaTreinamento\Linq\obj\x86\Debug\Linq.pdb
+D:\Docs_NovaGeracao\Programa de estágio\Código de demonstração\ProjetosParaTreinamento\Linq\obj\x86\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\Users\lucas.sousa\Desktop\Linq\obj\x86\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\lucas.sousa\Desktop\Linq\obj\x86\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\lucas.sousa\Desktop\Linq\obj\x86\Debug\Linq.exe
+C:\Users\lucas.sousa\Desktop\Linq\obj\x86\Debug\Linq.pdb
+C:\Users\lucas.sousa\Desktop\Linq\bin\Debug\Linq.exe
+C:\Users\lucas.sousa\Desktop\Linq\bin\Debug\Linq.pdb
